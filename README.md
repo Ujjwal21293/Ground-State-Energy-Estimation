@@ -34,9 +34,8 @@ The above two sections are scaffolded for future work and extension.
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/your-username/quantum-vqe-lih.git
-   cd quantum-vqe-lih
-   ```
+   git clone https://github.com/Ujjwal21293/Ground-State-Energy-Estimation.git
+   cd Ground-State-Energy-Estimation
 
 2. **Install dependencies**:
    ```bash
