@@ -1,0 +1,11 @@
+# Quantum VQE Project Requirements
+qiskit==0.45.1
+qiskit-terra==0.25.2
+qiskit-ibm-provider==0.7.0
+qiskit-nature==0.6.2
+qiskit-aer==0.13.3
+qiskit-ignis==0.7.0
+pyscf==2.2.1
+matplotlib>=3.5
+numpy>=1.21
+scipy>=1.7
