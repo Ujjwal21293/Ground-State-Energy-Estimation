@@ -26,7 +26,7 @@ This project illustrates a Variational Quantum Eigensolver (VQE) simulation of t
 - **Error Mitigation Techniques**: Includes code snippets using Ignis tools like measurement error mitigation.
 - **Real Hardware Execution**: Provides code structure to submit circuits to IBM Quantum backend via `qiskit-ibm-provider`.
 
-These sections are scaffolded for future work and extension.
+The above two sections are scaffolded for future work and extension.
 
 ---
 
